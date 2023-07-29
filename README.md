@@ -1,6 +1,6 @@
 # Movie Search App
 
-The Movie Search App is a simple web application built using HTML, CSS, and JavaScript that allows users to search for information about movies. With this app, users can easily find details about their favorite movies, including titles, release years, ratings, and brief overviews.
+The Movie Search App is a simple web application built using HTML, CSS, and JavaScript that allows users to search for information about movies. With this app, users can easily find details about their favorite movies, including titles, release years, ratings, and brief overviews. [Movie Search App](https://rahul-sharma-8092.github.io/Movie-Search-App/)
 
 ## Features
 
@@ -13,6 +13,10 @@ The Movie Search App is a simple web application built using HTML, CSS, and Java
 -   HTML: Used to structure the web pages and create the layout of the app.
 -   CSS: Utilized for styling the app and making it visually appealing.
 -   JavaScript: Implemented to handle the search functionality, fetch movie data from an external API, and display the results dynamically.
+
+## How to Use
+
+-   [Movie Search App](https://rahul-sharma-8092.github.io/Movie-Search-App/)
 
 ## Development
 
@@ -33,3 +37,8 @@ If you wish to contribute to this project or make improvements, feel free to for
 ## License
 
 The Movie Search App is open-source and available under the MIT License. You are free to use, modify, and distribute this code for personal and commercial purposes. However, attribution to the original authors is required.
+
+## Contact me:
+
+-   [Chat on WhatsApp](http://wa.me/+918092726691)
+-   [Email](mailto:rahulrohanroshan@gmail.com)
